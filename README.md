@@ -46,3 +46,4 @@ HOC.
 # :computer: Мой стек:
 HTML, CSS, БЭМ, JS, NodeJS, ReactJS, ExpressJS, Git, ReactHooks
 
+![](68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f34382f6170692e706e67.png)
