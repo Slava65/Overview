@@ -1,6 +1,6 @@
 # Overview
 
-Привет, мир. Меня зовут Вячеслав. Я начинающий фронтенд-разработчик. Я изучал HTML, CSS, JS, NodeJS, ReactJS, ExpressJS.
+Привет, мир. Меня зовут Вячеслав. Я начинающий вэб-разработчик. Я изучал HTML, CSS, JS, NodeJS, ReactJS, ExpressJS, mySQL.
 
 - :star: Хочу работать в дружной команде :grey_exclamation:
 - :sparkles: Стремлюсь получить максимум знаний и навыков :exclamation:
